@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegateTests.m \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h \
+  /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMock.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMockObject.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMockRecorder.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMConstraint.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMArg.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSNotificationCenter+OCMAdditions.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.h \
+  /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/NSObject+SupersequentImplementation.h
