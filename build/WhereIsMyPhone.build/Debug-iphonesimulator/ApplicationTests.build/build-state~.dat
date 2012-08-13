@@ -4,28 +4,28 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/Info.plist ApplicationTests-Info.plist
 cCpResource WebPageTestContent.html build/Debug-iphonesimulator/ApplicationTests.octest/WebPageTestContent.html
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/WhereIsMyPhoneAppDelegateTests.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegateTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/WhereIsMyPhoneViewControllerTests.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewControllerTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSMethodSignature+OCMAdditions.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSMethodSignature+OCMAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/WhereIsMyPhoneAppDelegateTests.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegateTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCClassMockObject.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCClassMockObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSNotificationCenter+OCMAdditions.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSNotificationCenter+OCMAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCClassMockObject.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCClassMockObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMArg.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMArg.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMBoxedReturnValueProvider.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMBoxedReturnValueProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMExceptionReturnValueProvider.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMExceptionReturnValueProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMConstraint.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMConstraint.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMExceptionReturnValueProvider.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMExceptionReturnValueProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMIndirectReturnValueProvider.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMIndirectReturnValueProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMNotificationPoster.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMNotificationPoster.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMockObject.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMockObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMObserverRecorder.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMObserverRecorder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMockObject.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMockObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMockRecorder.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMockRecorder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMPassByRefSetter.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMPassByRefSetter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMReturnValueProvider.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCMReturnValueProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCObserverMockObject.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCObserverMockObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCPartialMockObject.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCPartialMockObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCPartialMockRecorder.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCPartialMockRecorder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSObject+SupersequentImplementation.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/NSObject+SupersequentImplementation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCProtocolMockObject.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/OCProtocolMockObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSObject+SupersequentImplementation.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/NSObject+SupersequentImplementation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests normal i386
 cGenerateDSYMFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests
 cTouch /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest
@@ -167,9 +167,9 @@ t1255925946
 s1450
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m
-c000000005024F75200000000000023EC
-t1344599890
-s9196
+c000000004ADBE8BA00000000000023EA
+t1255925946
+s9194
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSMethodSignature+OCMAdditions.h
 c000000004ADBE8BA00000000000001F3
@@ -362,24 +362,24 @@ t1261363225
 s469
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest
-t1344613247
-s170
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM
-t1344613247
-s102
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests
-t1344613247
-s132096
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/Info.plist
-t1344599400
-s487
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/WebPageTestContent.html
-t1344599400
-s469
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/ApplicationTests.LinkFileList
 c000000005024F5680000000000000F00
@@ -387,92 +387,92 @@ t1344599400
 s3840
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o
-t1344613246
-s33368
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSMethodSignature+OCMAdditions.o
-t1344599400
-s4796
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSNotificationCenter+OCMAdditions.o
-t1344599400
-s5040
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSObject+SupersequentImplementation.o
-t1344599400
-s6480
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCClassMockObject.o
-t1344599400
-s9132
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMArg.o
-t1344599400
-s9600
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMBoxedReturnValueProvider.o
-t1344599400
-s7236
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMConstraint.o
-t1344599400
-s15880
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMExceptionReturnValueProvider.o
-t1344599400
-s5752
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMIndirectReturnValueProvider.o
-t1344599400
-s7788
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMNotificationPoster.o
-t1344599400
-s7532
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMObserverRecorder.o
-t1344599400
-s10412
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMPassByRefSetter.o
-t1344599400
-s6384
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMReturnValueProvider.o
-t1344599400
-s8340
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMockObject.o
-t1344599400
-s24556
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCMockRecorder.o
-t1344599400
-s19280
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCObserverMockObject.o
-t1344599400
-s12360
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCPartialMockObject.o
-t1344599400
-s19716
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCPartialMockRecorder.o
-t1344599400
-s6420
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/OCProtocolMockObject.o
-t1344599400
-s10204
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/WhereIsMyPhoneAppDelegateTests.o
-t1344599400
-s85564
+t2
+s0
 
 N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/WhereIsMyPhoneViewControllerTests.o
-t1344599400
-s110520
+t2
+s0
 
 NApplicationTests-Info.plist
 c000000004B2DAC3F0000000000000281
@@ -481,11 +481,11 @@ s641
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies83bea4fc67d5b541^7715cafc67d5b541^---0#1#0#--18"Check dependencies36"59552223-F68F-4F0C-A4EA-764649F15AA5-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies34bf3ee82cd5b541^fa9c3fe82cd5b541^---0#1#0#--18"Check dependencies36"1FE38A88-B67B-484B-9643-86A497DDF0A9-
 
 CCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s366306045.000185
-e366306046.217911
+s366292200.273270
+e366292200.428500
 r1
 xCompileC
 xbuild/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o
@@ -494,12 +494,20 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m:260:39: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]
+o        return [NSString stringWithFormat:@"%d", longValue];
+o                                            ~^   ~~~~~~~~~
+o                                            %ld
+o/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m:268:39: warning: format specifies type 'unsigned int' but the argument has type 'unsigned long' [-Wformat]
+o        return [NSString stringWithFormat:@"%u", longValue];
+o                                            ~^   ~~~~~~~~~
+o                                            %lu
 o/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m:326:41: warning: format specifies type 'const unsigned short *' but the argument has type 'char *' [-Wformat]
 o        return [NSString stringWithFormat:@"\"%S\"", buffer];
 o                                              ~^     ~~~~~~
 o                                              %s
-o1 warning generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m8c3100fd62d5b541^04c937fe62d5b541^-394"/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m:326:41: warning: format specifies type 'const unsigned short *' but the argument has type 'char *' [-Wformat]        return [NSString stringWithFormat:@"\"%S\"", buffer];                                              ~^     ~~~~~~                                              %s1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@81"Format specifies type 'const unsigned short *' but the argument has type 'char *'-366306046#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#40#325#40#8953#0#19"Format String Issue3(3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#46#325#52#8959#0#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#39#325#41#8952#2#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#39#325#41#8952#2#-0#0#0#-19%DVTDocumentLocation4@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^3801"CompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o OCMock/NSInvocation+OCMAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DAPPLICATION_TESTS -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-generated-files.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-own-target-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-all-target-headers.hmap -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-project-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/include -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/DerivedSources/i386 -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/DerivedSources -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -F/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -MMD -MT dependencies -MF /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.d --serialize-diagnostics /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.dia -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o36"E89D0693-4AA4-4031-9187-86572D30ADC4-
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m021146e82cd5b541^d2c26de82cd5b541^-1111"/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m:260:39: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]        return [NSString stringWithFormat:@"%d", longValue];                                            ~^   ~~~~~~~~~                                            %ld/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m:268:39: warning: format specifies type 'unsigned int' but the argument has type 'unsigned long' [-Wformat]        return [NSString stringWithFormat:@"%u", longValue];                                            ~^   ~~~~~~~~~                                            %lu/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m:326:41: warning: format specifies type 'const unsigned short *' but the argument has type 'char *' [-Wformat]        return [NSString stringWithFormat:@"\"%S\"", buffer];                                              ~^     ~~~~~~                                              %s3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@60"Format specifies type 'int' but the argument has type 'long'-366292200#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^259#38#259#38#7449#0#19"Format String Issue3(3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^259#42#259#51#7453#0#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^259#37#259#39#7448#2#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^259#37#259#39#7448#2#-2@78"Format specifies type 'unsigned int' but the argument has type 'unsigned long'-366292200#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^267#38#267#38#7638#0#19"Format String Issue3(3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^267#42#267#51#7642#0#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^267#37#267#39#7637#2#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^267#37#267#39#7637#2#-2@81"Format specifies type 'const unsigned short *' but the argument has type 'char *'-366292200#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#40#325#40#8951#0#19"Format String Issue3(3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#46#325#52#8957#0#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#39#325#41#8950#2#3@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^325#39#325#41#8950#2#-0#0#0#-19%DVTDocumentLocation4@107"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m0000000000000000^3801"CompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o OCMock/NSInvocation+OCMAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DAPPLICATION_TESTS -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-generated-files.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-own-target-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-all-target-headers.hmap -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/ApplicationTests-project-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/include -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/DerivedSources/i386 -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/DerivedSources -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -F/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -MMD -MT dependencies -MF /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.d --serialize-diagnostics /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.dia -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSInvocation+OCMAdditions.m -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSInvocation+OCMAdditions.o36"A2A1DA61-B606-48E6-9420-08D086D34030-
 
 CCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/NSMethodSignature+OCMAdditions.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/OCMock/NSMethodSignature+OCMAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s366292200.273502
@@ -793,23 +801,23 @@ xbuild/Debug-iphonesimulator/ApplicationTests.octest/WebPageTestContent.html
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy build/Debug-iphonesimulator/ApplicationTests.octest/WebPageTestContent.htmlcb6943e82cd5b541^69e043e82cd5b541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/WebPageTestContent.html000000000080d041^699"CpResource WebPageTestContent.html build/Debug-iphonesimulator/ApplicationTests.octest/WebPageTestContent.html    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WebPageTestContent.html /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest36"68B20A0D-3499-4565-A57A-381C1756BA63-
 
 CGenerateDSYMFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests
-s366306047.417183
-e366306047.502177
+s366292201.016330
+e366292201.040259
 r1
 xGenerateDSYMFile
 x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM
 x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Generating /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM76e26aff62d5b541^eb8f80ff62d5b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM/0000000000000000^778"GenerateDSYMFile build/Debug-iphonesimulator/ApplicationTests.octest.dSYM build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM36"B88F39C6-2545-4768-A141-DB33D9738671-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Generating /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYMa64204e92cd5b541^a94f0ae92cd5b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM000000000080d041^778"GenerateDSYMFile build/Debug-iphonesimulator/ApplicationTests.octest.dSYM build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest.dSYM36"32A03B4C-21B5-4C90-BC91-2AC36CF9D215-
 
 CLd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests normal i386
-s366306046.224975
-e366306047.410258
+s366292200.961142
+e366292201.009762
 r1
 xLd
 x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests
 xnormal
 xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests2eae39fe62d5b541^740769ff62d5b541^---0#0#0#--1664"Ld build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests normal i386    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -F/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -filelist /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/ApplicationTests.LinkFileList -dead_strip -bundle_loader /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhone.app/WhereIsMyPhone -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework SenTestingKit -framework UIKit -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework CoreLocation -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests36"38CA61BE-B89C-4D47-B209-029A99924BA8-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTestscd20f6e82cd5b541^5a8002e92cd5b541^---0#0#0#--1664"Ld build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests normal i386    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -F/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/Developer/Library/Frameworks -filelist /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/ApplicationTests.build/Objects-normal/i386/ApplicationTests.LinkFileList -dead_strip -bundle_loader /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhone.app/WhereIsMyPhone -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework SenTestingKit -framework UIKit -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework CoreLocation -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/ApplicationTests36"BE3E9871-C4A5-449C-A822-8DD066F28355-
 
 CProcessInfoPlistFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/Info.plist ApplicationTests-Info.plist
 s366292200.252267
@@ -821,10 +829,10 @@ xApplicationTests-Info.plist
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Process ApplicationTests-Info.plistbea540e82cd5b541^753d41e82cd5b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/ApplicationTests-Info.plist0000000000000000^640"ProcessInfoPlistFile build/Debug-iphonesimulator/ApplicationTests.octest/Info.plist ApplicationTests-Info.plist    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility ApplicationTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest/Info.plist36"8CE8BBE8-F358-46EF-97F5-24B1AC24CBEB-
 
 CTouch /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest
-s366306047.510447
-e366306047.527894
+s366292201.048075
+e366292201.053098
 r1
 xTouch
 x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest7fbd82ff62d5b541^852487ff62d5b541^---0#0#0#--475"Touch build/Debug-iphonesimulator/ApplicationTests.octest    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest36"70BFC2C1-2BFE-485D-A99D-8C43DE15EF30-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octestea5d0ce92cd5b541^4a980de92cd5b541^---0#0#0#--475"Touch build/Debug-iphonesimulator/ApplicationTests.octest    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest36"A41B2698-C21D-49D6-80A3-2C4EA703A9A8-
 

@@ -1,0 +1,284 @@
+TWhereIsMyPhoneTesting
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/Info.plist WhereIsMyPhoneTesting-Info.plist
+cCpResource build/Debug-iphonesimulator/ApplicationTests.octest build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/ApplicationTests.octest
+cCompileXIB /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/MainWindow.xib
+cCompileXIB /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneViewController.xib
+cCpResource HTMLFormatString.html build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/HTMLFormatString.html
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting normal i386
+cGenerateDSYMFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting
+cTouch /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app
+
+N/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F8DC2CA0000000000000110
+t1334690506
+s272
+
+N/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F1391B60000000000244490
+t1326682550
+s2376848
+
+N/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004F2DA3CD0000000000089510
+t1328391117
+s562448
+
+N/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F13922B0000000000353830
+t1326682667
+s3487792
+
+N/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F1392240000000000001534
+t1326682660
+s5428
+
+N/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F2DA4D30000000000000BF5
+t1328391379
+s3061
+
+N/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F2DA4F80000000000905E40
+t1328391416
+s9461312
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.h
+c000000004B372BF60000000000000365
+t1261906934
+s869
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.m
+c000000004B372BE0000000000000048A
+t1261906912
+s1162
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.h
+c000000004B372BF6000000000000037E
+t1261906934
+s894
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.m
+c000000004B372BF60000000000000E9C
+t1261906934
+s3740
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/HTMLFormatString.html
+c000000004AB72ED900000000000001B9
+t1253519065
+s441
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/MainWindow.xib
+c000000004B2DCB6800000000000044CA
+t1261292392
+s17610
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneViewController.xib
+c000000004B2EEE1700000000000064AA
+t1261366807
+s25770
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhone_Prefix.pch
+c000000004B2DABC400000000000000C5
+t1261284292
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest
+c000000005024F56900000000000000AA
+t1344599401
+s170
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/ApplicationTests.octest
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/HTMLFormatString.html
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/Info.plist
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/MainWindow.nib
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/PkgInfo
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneViewController.nib
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.o
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneTesting.LinkFileList
+c000000005024F5690000000000000210
+t1344599401
+s528
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.o
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/main.m
+c000000004B372C0600000000000002CC
+t1261906950
+s716
+
+N/var/folders/ty/31p97pjn2tq68rlr2jyv_szh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/WhereIsMyPhone_Prefix-dipzkuqirulgmwgbevkagtwfllfl/WhereIsMyPhone_Prefix.pch.pth
+t1344599399
+s4100412
+
+NWhereIsMyPhoneTesting-Info.plist
+c000000004B2DAC55000000000000038D
+t1261284437
+s909
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciescefd11e92cd5b541^51db12e92cd5b541^---0#1#0#--18"Check dependencies36"01210559-4C63-4F55-8E78-5A84F8E06049-
+
+CCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366292201.364058
+e366292201.431450
+r1
+xCompileC
+xbuild/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.o
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.m5c5a5de92cd5b541^88816ee92cd5b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.m0000000000000000^4118"CompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.o Classes/WhereIsMyPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-generated-files.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-own-target-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-all-target-headers.hmap -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-project-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/DerivedSources/i386 -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/DerivedSources -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -include /var/folders/ty/31p97pjn2tq68rlr2jyv_szh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/WhereIsMyPhone_Prefix-dipzkuqirulgmwgbevkagtwfllfl/WhereIsMyPhone_Prefix.pch -MMD -MT dependencies -MF /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.d --serialize-diagnostics /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.dia -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneAppDelegate.m -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneAppDelegate.o36"547F84A2-CC9B-4EC1-8EB0-9DB4344F8362-
+
+CCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366292201.364515
+e366292201.433817
+r1
+xCompileC
+xbuild/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.o
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.m90695de92cd5b541^910e6fe92cd5b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.m0000000000000000^4136"CompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.o Classes/WhereIsMyPhoneViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-generated-files.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-own-target-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-all-target-headers.hmap -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-project-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/DerivedSources/i386 -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/DerivedSources -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -include /var/folders/ty/31p97pjn2tq68rlr2jyv_szh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/WhereIsMyPhone_Prefix-dipzkuqirulgmwgbevkagtwfllfl/WhereIsMyPhone_Prefix.pch -MMD -MT dependencies -MF /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.d --serialize-diagnostics /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.dia -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/Classes/WhereIsMyPhoneViewController.m -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneViewController.o36"B7A14F31-647F-4CE0-B1C5-EC1945974B5B-
+
+CCompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366292201.364037
+e366292201.386013
+r1
+xCompileC
+xbuild/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.o
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/main.m4c525de92cd5b541^268f63e92cd5b541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/main.m0000000000000000^3976"CompileC build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-generated-files.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-own-target-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-all-target-headers.hmap -iquote /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/WhereIsMyPhoneTesting-project-headers.hmap -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/DerivedSources/i386 -I/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/DerivedSources -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -include /var/folders/ty/31p97pjn2tq68rlr2jyv_szh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/WhereIsMyPhone_Prefix-dipzkuqirulgmwgbevkagtwfllfl/WhereIsMyPhone_Prefix.pch -MMD -MT dependencies -MF /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.dia -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/main.m -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/main.o36"8DD401B2-B145-4B72-B557-2BAD70FF1F39-
+
+CCompileXIB /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/MainWindow.xib
+s366292201.092033
+e366292201.112261
+r1
+xCompileXIB
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compiling /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/MainWindow.xib73a017e92cd5b541^0bd21ce92cd5b541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/MainWindow.xib0000000000000000^972"CompileXIB MainWindow.xib    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode45-DP3.app/Contents/Developer/usr/bin/..    /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/MainWindow.nib /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/MainWindow.xib --sdk /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"BB7C0B35-763A-4C19-B8B4-E6435F5C0185-
+
+CCompileXIB /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneViewController.xib
+s366292201.092038
+e366292201.355946
+r1
+xCompileXIB
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneViewController.xib
+o2012-08-10 12:50:01.264 Interface Builder Cocoa Touch Tool[12822:f07] CFPreferences: user home directory at file://localhost/Users/aureliencobb/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+oscheduled GC timer for 0.000000
+o seconds
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compiling /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneViewController.xibc7a017e92cd5b541^de1f5be92cd5b541^-283"2012-08-10 12:50:01.264 Interface Builder Cocoa Touch Tool[12822:f07] CFPreferences: user home directory at file://localhost/Users/aureliencobb/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.scheduled GC timer for 0.000000 second-0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneViewController.xib0000000000000000^1026"CompileXIB WhereIsMyPhoneViewController.xib    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode45-DP3.app/Contents/Developer/usr/bin/..    /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneViewController.nib /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneViewController.xib --sdk /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"9382F7AF-1522-4893-89F1-3ECEEE0B94F0-
+
+CCpResource HTMLFormatString.html build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/HTMLFormatString.html
+s366292201.092277
+e366292201.097593
+r1
+xCpResource
+xHTMLFormatString.html
+xbuild/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/HTMLFormatString.html
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/HTMLFormatString.html47ae17e92cd5b541^1afd18e92cd5b541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/HTMLFormatString.html000000000080d041^697"CpResource HTMLFormatString.html build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/HTMLFormatString.html    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/HTMLFormatString.html /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app36"68D0BCBE-D0B8-46C2-BCC7-4F3B1B3CD0CC-
+
+CCpResource build/Debug-iphonesimulator/ApplicationTests.octest build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/ApplicationTests.octest
+s366292201.092026
+e366292201.095348
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationTests.octest
+xbuild/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/ApplicationTests.octest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/ApplicationTests.octest029f17e92cd5b541^736918e92cd5b541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/ApplicationTests.octest000000000080d041^759"CpResource build/Debug-iphonesimulator/ApplicationTests.octest build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/ApplicationTests.octest    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/ApplicationTests.octest /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app36"FAFA26B5-FE0E-4B84-ADF7-FF8084EDD900-
+
+CGenerateDSYMFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting
+s366292201.468840
+e366292201.487389
+r1
+xGenerateDSYMFile
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generating /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM121778e92cd5b541^0dc67ce92cd5b541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM000000000080d041^796"GenerateDSYMFile build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app.dSYM36"BA7F1BFF-0492-4C34-BCF0-D9B632010C3C-
+
+CLd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting normal i386
+s366292201.440396
+e366292201.462279
+r1
+xLd
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTestingd9d170e92cd5b541^925876e92cd5b541^---0#0#0#--1380"Ld build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting normal i386    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode45-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -F/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator -filelist /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/WhereIsMyPhone.build/Debug-iphonesimulator/WhereIsMyPhoneTesting.build/Objects-normal/i386/WhereIsMyPhoneTesting.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework CoreLocation -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/WhereIsMyPhoneTesting36"5CF3844E-4646-4DA7-8CA0-6BE70B273F7C-
+
+CProcessInfoPlistFile /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/Info.plist WhereIsMyPhoneTesting-Info.plist
+s366292201.081229
+e366292201.084337
+r1
+xProcessInfoPlistFile
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/Info.plist
+xWhereIsMyPhoneTesting-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process WhereIsMyPhoneTesting-Info.plista9dc14e92cd5b541^a29715e92cd5b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/WhereIsMyPhoneTesting-Info.plist0000000000000000^785"ProcessInfoPlistFile build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/Info.plist WhereIsMyPhoneTesting-Info.plist    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility WhereIsMyPhoneTesting-Info.plist -genpkginfo /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app/Info.plist36"2E205B4C-DC5A-4274-A029-7403AAAE8DBA-
+
+CProcessPCH /var/folders/ty/31p97pjn2tq68rlr2jyv_szh0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/WhereIsMyPhone_Prefix-dipzkuqirulgmwgbevkagtwfllfl/WhereIsMyPhone_Prefix.pch.pth WhereIsMyPhone_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app
+s366292201.495560
+e366292201.500593
+r1
+xTouch
+x/Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Touch /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app18ec7ee92cd5b541^952780e92cd5b541^---0#0#0#--479"Touch build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app    cd /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests    setenv PATH "/Applications/Xcode45-DP3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP3.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/aureliencobb/Desktop/WhereIsMyPhone-WithUnitTests/build/Debug-iphonesimulator/WhereIsMyPhoneTesting.app36"FED5B40B-49A1-44A0-9825-448536CE190C-
+
